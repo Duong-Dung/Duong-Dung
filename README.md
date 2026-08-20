@@ -7,7 +7,7 @@ Mình đang theo đuổi con đường trở thành một Data Engineer với m�
 ## Về mình
 - Sinh viên khoa Công nghệ Thông tin, HCMUS, khóa 2023
 - Chuyên ngành: Hệ thống thông tin
-- Định hướng nghề nghiệp: Data Engineer
+- Định hướng nghề nghiệp: Data Engineer, Data Analyst
 - Có nền tảng tiếng Anh vững chắc
 - Thành thạo sử dụng các công cụ AI trong học tập và phát triển
 
@@ -23,5 +23,5 @@ Mình đang theo đuổi con đường trở thành một Data Engineer với m�
 - Liên tục cải thiện khả năng làm việc nhóm, kỹ năng chuyên môn và tư duy giải quyết vấn đề
 
 ## Kết nối
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [github.com/Duong-Dung](https://github.com/Duong-Dung)
+- Email: duongvietdung3405@gmail.com
